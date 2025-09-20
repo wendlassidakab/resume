@@ -6,11 +6,9 @@ Junior Actuarial Analyst \| Actuarial Science & Data-Driven Risk Analysis
 
 Passionate about leveraging statistical modeling and data analytics to support informed decision-making in insurance and financial services. Currently completing a bachelor's degree in Actuarial Science, with hands-on experience in predictive modeling, VBA automation, and SAS/R/Python analytics.
 
-[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/wendlassidakab/resume/blob/main/CV%20Jonathan%20-%20English%20Version.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendlassida-jonathan-adan-k-a21428185)
+[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/wendlassidakab/resume/blob/main/CV%20Jonathan%20-%20English%20Version.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendlassida-jonathan-adan-k-a21428185)
 
 ## About me
-
 
 -   Aspiring Actuary and Data Science Enthusiast with academic and practical experience in insurance and data analysis
 
@@ -25,7 +23,7 @@ Passionate about leveraging statistical modeling and data analytics to support i
 ## Technical Skills
 
 | Category | Tools/Technologies |
-|------------------------|------------------------------------------------|
+|-------------------------|-----------------------------------------------|
 | Programming Languages | R, Python, SQL, SAS, VBA |
 | Statistical Analysis | Generalized Linear Models (GLMs), Hypothesis Testing, Time Series (ARIMA, GAM), EDA |
 | Actuarial Modeling | Credibility Theory (Bülhmann, Bülhmann-Straub, ...), Loss Modeling (Pareto, Lognormal, GB2,...) |
@@ -41,7 +39,17 @@ Passionate about leveraging statistical modeling and data analytics to support i
 
 May 2025 - August 2025
 
----
+-   Developed and calibrated frequency and predictive models (GLM, Bülmann-Straub credibility, SARIMA)
+
+-   Designed and automated an Excel/VBA calculator for premium pricing
+
+-   Cleaned, validated, and integrated large datasets
+
+-   Detected and analyzed pattern of inconsistent observations for data validation
+
+-   Wrote and presented actuarial and statistical analysis report and documentation in French
+
+------------------------------------------------------------------------
 
 ### Technical Departement Intern
 
@@ -67,7 +75,7 @@ December 2022 - April 2023
 
 -   Processed policyholder dividends
 
----
+------------------------------------------------------------------------
 
 ### Technical Departement Intern
 
@@ -85,13 +93,23 @@ August 2022 - November 2022
 
 ## Other Work Experience
 
-### Teaching Assistant (IFT-4902)
+### Teaching Assistant
 
 **Université Laval**, Quebec City, Canada
 
-September 2024 - April 2025
+September 2025 - actually Courses: Programming with R for Data Analysis & Linear models for actuarial science
 
-Course: Programming with R for Data Analysis
+### Data Entry Clerk
+
+**Université Laval**, Québec City, Canada
+
+August 2025 - actually
+
+### Teaching Assistant
+
+**Université Laval**, Quebec City, Canada
+
+September 2024 - April 2025 Course: Programming with R for Data Analysis
 
 -   Assisted students in understanding course material and R programming concepts.
 
@@ -101,7 +119,7 @@ Course: Programming with R for Data Analysis
 
 -   Helped in grading and providing feedback on student submissions.
 
----
+------------------------------------------------------------------------
 
 ### Data Entry Clerk
 
@@ -142,17 +160,7 @@ Burkinabè Community of CESAG, Dakar, Senegal
 -   Managed internal and external communications for the student association.
 
 -   Promoted events and ensured active engagement among members.
----
-### General Secretary
 
-CESAG ICT Club (Club TIC), Dakar, Senegal
-
-2021-2022
-
--   Oversaw the club’s operations and coordinated activities related to technology and digital literacy.
-
--   Facilitated partnerships and organized tech-related workshops and seminars.
----
 ### Communications Officer
 
 CESAG ICT Club (Club TIC), Dakar, Senegal
@@ -171,8 +179,7 @@ CESAG ICT Club (Club TIC), Dakar, Senegal
 
 Passionné par l’exploitation de la modélisation statistique et de l’analyse de données pour soutenir la prise de décision éclairée dans les domaines de l’assurance et des services financiers. Actuellement en dernière année d’un baccalauréat en actuariat, avec une expérience pratique en modélisation prédictive, automatisation VBA et analyse de données avec SAS, R et Python.
 
-[![CV](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/wendlassidakab/resume/blob/main/CV%20Jonathan%20-%20Version%20Fran%C3%A7aise.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/wendlassida-jonathan-adan-k-a21428185)
+[![CV](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/wendlassidakab/resume/blob/main/CV%20Jonathan%20-%20Version%20Fran%C3%A7aise.pdf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/wendlassida-jonathan-adan-k-a21428185)
 
 ## A propos de moi
 
@@ -189,7 +196,7 @@ Passionné par l’exploitation de la modélisation statistique et de l’analys
 ## Compétences techniques
 
 | Catégorie | Outils / Technologies |
-|-------------------------|-----------------------------------------------|
+|--------------------------|----------------------------------------------|
 | Langages de programmation | R, Python, SQL, SAS, VBA |
 | Analyse statistique | Modèles linéaires généralisés (GLM), tests d’hypothèse, séries temporelles (ARIMA, GAM), EDA |
 | Modélisation actuarielle | Théorie de la crédibilité (Bühlmann, Bühlmann-Straub, ...), modélisation des pertes (Pareto, Lognormale, GB2, ...) |
@@ -203,8 +210,18 @@ Passionné par l’exploitation de la modélisation statistique et de l’analys
 
 **Société de l’assurance automobile du Québec (SAAQ)**, Québec, Canada
 
-Mai 2025 - Août 2025
--------
+-   Développer et ajuster des modèles de fréquence et de prédiction (GLM, crédibilité de Bülhmann-Straub, SARIMA)
+
+-   Concevoir et automatiser un calculateur Excel/VBA pour la tarification des primes de permis et d’immatriculation
+
+-   Nettoyer, valider et intégrer de larges bases de données
+
+-   Détecter les patterns des observations incohérentes pour validation
+
+-   Rédiger et présenter des rapports et documentation vulgarisant les résultats d’analyses actuarielle et statistiques
+
+## Mai 2025 - Août 2025
+
 ### Stagiaire à la Direction Technique
 
 **Sanlam Assurance Vie Burkina Faso**, Ouagadougou
@@ -228,26 +245,34 @@ Décembre 2022 – Avril 2023
 -   Mise à jour quotidienne de l’état des prestations dans Excel.
 
 -   Traitement des ristournes des assurés.
----
-### Stagiaire à la Direction Technique
 
-***Sanlam Assurance Vie Burkina Faso**, Ouagadougou*
-
-Août 2022 – Novembre 2022
-
--   Saisie des bulletins d’adhésion dans le logiciel d'assurance.
-
--   Tenue du registre de prestations.
-
--   Élaboration du bilan des prestations de 2017 à 2022.
-
--   Comparaison entre les états de la direction technique et ceux de la direction comptable.
----
 ## Autres expériences professionnelles
 
-### Auxiliaire à l’enseignement (IFT-4902)
+### Commis à la saisie de l'information
 
 ***Université Laval**, Québec, Canada*
+
+Août 2025 - aujourd'hui
+
+### Auxiliaire à l’enseignement 
+
+***Université Laval**, Québec, Canada*
+
+Septembre 2025 - aujourd'hui
+
+Cours : Programmation avec R pour l’analyse de données & Modèles linéaires en actuariat
+
+### Commis à la saisie de l'information
+
+***Université Laval**, Québec, Canada*
+
+Décembre 2023 - avril 2025
+
+### Auxiliaire à l’enseignement 
+
+***Université Laval**, Québec, Canada*
+
+Septembre 2024 - avril 2025
 
 Cours : Programmation avec R pour l’analyse de données
 
@@ -258,47 +283,7 @@ Cours : Programmation avec R pour l’analyse de données
 -   Aide aux travaux pratiques et aux devoirs.
 
 -   Correction et rétroaction sur les évaluations.
----
-### Commis à la saisie de l’information
 
-***Université Laval**, Québec, Canada*
-
-Décembre 2023 – Avril 2025
-
--   Saisie, vérification et mise à jour des données dans les bases de l’université.
-
--   Contrôle de la qualité et de la cohérence des informations.
-
-## Certifications
-
--   **Data Science et Machine Learning \| MasterClass avec Python — Udemy**
-
-    [View Certificate](Certificat%20de%20réussite%20du%20cours%20Udemy%20%7C%20Udemy)
-
-    Obtenu: Août 2024
-
-    -   Concepts clés de la science des données et de l’apprentissage automatique.
-
-    -   Implémentation pratique des techniques supervisées et non supervisées.
-
-    -   Application sur des jeux de données réels pour des prédictions concrètes.
-
--   **Diplôme d’Espagnol Langue Étrangère (DELE) – Niveau A2 — Instituto Cervantes**
-
-    Obtenu: 2022
-
-## Activités et engagements sociaux
-
-#### Secrétaire chargé de la communication
-
-*Communauté Burkinabé du CESAG, Dakar, Sénégal*
-
-2021-2022
-
--   Gestion des communications internes et externes.
-
--   Promotion des événements de la communauté.
----
 #### Secrétaire général
 
 *Club TIC du CESAG, Dakar, Sénégal*
@@ -307,9 +292,11 @@ Décembre 2023 – Avril 2025
 
 -   Coordination des activités du club.
 
--   Organisation d’ateliers et de séminaires technologiques.
----
-#### Secrétaire chargé de la communication
+-   
+
+    ## Organisation d’ateliers et de séminaires technologiques.
+
+    #### Secrétaire chargé de la communication
 
 *Club TIC du CESAG, Dakar, Sénégal*
 
