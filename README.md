@@ -1,16 +1,16 @@
 # English Version
 
-## I'm KABORE Wendlassida Jonathan Adan
+# I'm KABORE Wendlassida Jonathan Adan
 
 Junior Actuarial Analyst \| Actuarial Science & Data-Driven Risk Analysis
 
 Passionate about leveraging statistical modeling and data analytics to support informed decision-making in insurance and financial services. Currently completing a bachelor's degree in Actuarial Science, with hands-on experience in predictive modeling, VBA automation, and SAS/R/Python analytics.
 
-[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)]
-
+[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/wendlassidakab/resume/blob/main/CV%20Jonathan%20-%20English%20Version.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendlassida-jonathan-adan-k-a21428185)
 
-### About me
+## About me
+
 
 -   Aspiring Actuary and Data Science Enthusiast with academic and practical experience in insurance and data analysis
 
@@ -22,7 +22,7 @@ Passionate about leveraging statistical modeling and data analytics to support i
 
 -   Passionate about using data to solve real-world problems through statistical reasoning, machine learning, and business-oriented decision-making.
 
-### Technical Skills
+## Technical Skills
 
 | Category | Tools/Technologies |
 |------------------------|------------------------------------------------|
@@ -33,15 +33,17 @@ Passionate about leveraging statistical modeling and data analytics to support i
 | Machine Learning | Logistic Regression, Random Forest, Decision Trees, Clustering |
 | Tools & Software | Excel (advanced), VBA, SAS, RStudio, Python (Jupyter), Latex, Git |
 
-### Relevant Experience
+## Relevant Experience
 
-#### Actuarial Intern
+### Actuarial Intern
 
 **Société de l'assurance automobile du Québec**, Quebec City, Canada
 
 May 2025 - August 2025
 
-#### Technical Departement Intern
+---
+
+### Technical Departement Intern
 
 **Sanlam Assurance Vie BF**, Ouagadougou, Burkina Faso
 
@@ -65,7 +67,9 @@ December 2022 - April 2023
 
 -   Processed policyholder dividends
 
-#### Technical Departement Intern
+---
+
+### Technical Departement Intern
 
 **Sanlam Assurance Vie BF**, Ouagadougou, Burkina Faso
 
@@ -79,9 +83,9 @@ August 2022 - November 2022
 
 -   Reconciled technical department records with those from the accounting department.
 
-### Other Work Experience
+## Other Work Experience
 
-#### Teaching Assistant (IFT-4902)
+### Teaching Assistant (IFT-4902)
 
 **Université Laval**, Quebec City, Canada
 
@@ -97,7 +101,9 @@ Course: Programming with R for Data Analysis
 
 -   Helped in grading and providing feedback on student submissions.
 
-#### Data Entry Clerk
+---
+
+### Data Entry Clerk
 
 **Université Laval**, Québec City, Canada
 
@@ -107,11 +113,11 @@ December 2023 - April 2025
 
 -   Ensured accuracy and consistency of information
 
-### Certifications
+## Certifications
 
 -   \*\*Data Science and Machine Learning \| MasterClass with Python - Udemy\*\*
 
-    [View Certificate](Certificat%20de%20réussite%20du%20cours%20Udemy%20%7C%20Udemy)
+    [View Certificate](https://www.udemy.com/certificate/UC-932756e9-f704-44dd-bccb-f98b4689984d/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
 
     Issued: August 2024
 
@@ -125,9 +131,9 @@ December 2023 - April 2025
 
     Issued: 2022
 
-### Activities and Social Engagements
+## Activities and Social Engagements
 
-#### Secretary for Communications
+### Secretary for Communications
 
 Burkinabè Community of CESAG, Dakar, Senegal
 
@@ -136,8 +142,8 @@ Burkinabè Community of CESAG, Dakar, Senegal
 -   Managed internal and external communications for the student association.
 
 -   Promoted events and ensured active engagement among members.
-
-#### General Secretary
+---
+### General Secretary
 
 CESAG ICT Club (Club TIC), Dakar, Senegal
 
@@ -146,8 +152,8 @@ CESAG ICT Club (Club TIC), Dakar, Senegal
 -   Oversaw the club’s operations and coordinated activities related to technology and digital literacy.
 
 -   Facilitated partnerships and organized tech-related workshops and seminars.
-
-**Communications Officer**
+---
+### Communications Officer
 
 CESAG ICT Club (Club TIC), Dakar, Senegal
 
@@ -159,17 +165,16 @@ CESAG ICT Club (Club TIC), Dakar, Senegal
 
 # Version Française
 
-## Je suis KABORE Wendlassida Jonathan Adan
+# Je suis KABORE Wendlassida Jonathan Adan
 
 **Analyste Actuariel Junior** \| **Science Actuarielle & Analyse de Risques Basée sur les Données**
 
 Passionné par l’exploitation de la modélisation statistique et de l’analyse de données pour soutenir la prise de décision éclairée dans les domaines de l’assurance et des services financiers. Actuellement en dernière année d’un baccalauréat en actuariat, avec une expérience pratique en modélisation prédictive, automatisation VBA et analyse de données avec SAS, R et Python.
 
-[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white){alt="Resume"}]
+[![CV](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/wendlassidakab/resume/blob/main/CV%20Jonathan%20-%20Version%20Fran%C3%A7aise.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/wendlassida-jonathan-adan-k-a21428185)
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white){alt="LinkedIn"}
-
-### A propos de moi
+## A propos de moi
 
 -   Futur actuaire et passionné de science des données, avec une expérience académique et pratique en assurance et en analyse de données.
 
@@ -181,7 +186,7 @@ Passionné par l’exploitation de la modélisation statistique et de l’analys
 
 -   Animé par le désir d’utiliser les données pour résoudre des problèmes concrets à l’aide du raisonnement statistique, de l’apprentissage automatique et d’une approche orientée entreprise.
 
-### Compétences techniques
+## Compétences techniques
 
 | Catégorie | Outils / Technologies |
 |-------------------------|-----------------------------------------------|
@@ -192,15 +197,15 @@ Passionné par l’exploitation de la modélisation statistique et de l’analys
 | Apprentissage automatique | Régression logistique, forêts aléatoires, arbres de décision, clustering |
 | Outils et logiciels | Excel (avancé), VBA, SAS, RStudio, Python (Jupyter), LaTeX, Git |
 
-### Expérience pertinente
+## Expérience pertinente
 
-#### Stagiaire en actuariat
+### Stagiaire en actuariat
 
 **Société de l’assurance automobile du Québec (SAAQ)**, Québec, Canada
 
 Mai 2025 - Août 2025
-
-#### Stagiaire à la Direction Technique
+-------
+### Stagiaire à la Direction Technique
 
 **Sanlam Assurance Vie Burkina Faso**, Ouagadougou
 
@@ -223,8 +228,8 @@ Décembre 2022 – Avril 2023
 -   Mise à jour quotidienne de l’état des prestations dans Excel.
 
 -   Traitement des ristournes des assurés.
-
-#### Stagiaire à la Direction Technique
+---
+### Stagiaire à la Direction Technique
 
 ***Sanlam Assurance Vie Burkina Faso**, Ouagadougou*
 
@@ -237,10 +242,10 @@ Août 2022 – Novembre 2022
 -   Élaboration du bilan des prestations de 2017 à 2022.
 
 -   Comparaison entre les états de la direction technique et ceux de la direction comptable.
+---
+## Autres expériences professionnelles
 
-### Autres expériences professionnelles
-
-#### Auxiliaire à l’enseignement (IFT-4902)
+### Auxiliaire à l’enseignement (IFT-4902)
 
 ***Université Laval**, Québec, Canada*
 
@@ -253,8 +258,8 @@ Cours : Programmation avec R pour l’analyse de données
 -   Aide aux travaux pratiques et aux devoirs.
 
 -   Correction et rétroaction sur les évaluations.
-
-#### Commis à la saisie de l’information
+---
+### Commis à la saisie de l’information
 
 ***Université Laval**, Québec, Canada*
 
@@ -264,7 +269,7 @@ Décembre 2023 – Avril 2025
 
 -   Contrôle de la qualité et de la cohérence des informations.
 
-### Certifications
+## Certifications
 
 -   **Data Science et Machine Learning \| MasterClass avec Python — Udemy**
 
@@ -282,7 +287,7 @@ Décembre 2023 – Avril 2025
 
     Obtenu: 2022
 
-### Activités et engagements sociaux
+## Activités et engagements sociaux
 
 #### Secrétaire chargé de la communication
 
@@ -293,7 +298,7 @@ Décembre 2023 – Avril 2025
 -   Gestion des communications internes et externes.
 
 -   Promotion des événements de la communauté.
-
+---
 #### Secrétaire général
 
 *Club TIC du CESAG, Dakar, Sénégal*
@@ -303,7 +308,7 @@ Décembre 2023 – Avril 2025
 -   Coordination des activités du club.
 
 -   Organisation d’ateliers et de séminaires technologiques.
-
+---
 #### Secrétaire chargé de la communication
 
 *Club TIC du CESAG, Dakar, Sénégal*
